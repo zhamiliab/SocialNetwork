@@ -1,0 +1,20 @@
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;  
+    color: white;
+    text-align:left;
+  }
+     
+  footer .footer-a{ 
+    background-color: #076490;
+    padding: 16px;
+  }
+  
+    footer .footer-b, footer .footer-b a{    
+      background-color:#199de5; 
+      padding: 13px;
+      color: white;
+      
+    }
